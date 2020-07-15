@@ -1,1 +1,1 @@
-web: gunicorn crudnotemom.wsgi
+web: gunicorn crudnote.wsgi
